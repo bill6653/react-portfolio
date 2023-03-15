@@ -1,6 +1,6 @@
 .header {
   padding: 2.5rem 2rem;
-  background-color: rgba(0, 0, 255, 0.856);
+  background-color: #0000ffda;
 }
 .header__content {
 }
@@ -12,18 +12,19 @@
   margin-right: auto;
   font-size: 3.5rem;
   text-transform: uppercase;
+  color: #fff;
 }
 .main-nav__list {
   display: flex;
   align-items: center;
   justify-content: space-between;
   list-style: none;
-  gap: 3rem;
+  gap: 4rem;
 }
 .main-nav__item {
 }
 .main-nav__link {
-  font-size: 2rem;
+  font-size: 2.7rem;
   color: #ccc;
   text-decoration: none;
   transition: all 0.3s;
@@ -32,4 +33,5 @@
 .main-nav__link:hover,
 .main-nav__link:active {
   color: #fff;
+  transform: scale(120%);
 }
