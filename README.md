@@ -6,6 +6,7 @@
 * [Installation](##Installation)
 * [Usage](##Usage)
 * [Screenshot](##Screenshot)
+* [Link](##Deployed link)
 * [Questions](##Questions)
 
 ## Description
@@ -32,6 +33,8 @@ npm start
 
 (![React Portfolio](./public/imgs/mockup1.jpg))
 
+## Link to deployed app
+https://gentle-peak-57072.herokuapp.com/
 
 ## Questions  
 
